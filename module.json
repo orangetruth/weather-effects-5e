@@ -29,28 +29,28 @@
   ],
   "manifest": "https://raw.githubusercontent.com/orangetruth/weather-effects-5e/main/module.json",
   "minimumCoreVersion": "0.5.5",
-  "name": "weather-effects-5e",
+  "name": "WeatherEffects5e",
   "packs": [
     {
       "name": "weather-actors",
       "label": "Weather Actors",
       "path": "packs/weather-actors.db",
       "entity": "Actor",
-      "module": "weather-effects-5e"
+      "module": "WeatherEffects5e"
     },
     {
       "name": "weather-effects",
       "label": "Weather Effects",
       "path": "packs/weather-effects.db",
       "entity": "Item",
-      "module": "weather-effects-5e"
+      "module": "WeatherEffects5e"
     },
     {
       "name": "weather-rolltables",
       "label": "Weather Roll Tables",
       "path": "packs/weather-rolltables.db",
       "entity": "RollTable",
-      "module": "weather-effects-5e"
+      "module": "WeatherEffects5e"
     }
   ],
   "readme": "https://github.com/orangetruth/weather-effects-5e/blob/main/README.md",
