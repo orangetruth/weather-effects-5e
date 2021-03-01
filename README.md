@@ -1,4 +1,4 @@
-# weather-effects-5e
+# Weather Effects 5e
 This FoundryVTT module contains rollable tables with seasonal weather effects for 5e based on homebrew by KibblesTasty (https://www.gmbinder.com/share/-M6xAC_2zw4BzpByxO-c). You can find more homebrew by KibblesTasty at https://www.patreon.com/KibblesTasty.
 
 This module contains 3 compendiums:
