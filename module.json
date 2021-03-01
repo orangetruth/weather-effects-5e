@@ -1,0 +1,60 @@
+{
+  "allowBugReporter": true,
+  "authors": [
+    {
+      "name": "orangetruth",
+      "url": "https://github.com/orangetruth"
+    },
+    {
+      "name": "KibblesTasty",
+      "url": "https://www.patreon.com/KibblesTasty"
+    }
+  ],
+  "bugs": "https://github.com/orangetruth/weather-effects-5e/issues",
+  "compatibleCoreVersion": "3.0.0",
+  "dependencies": [
+    {
+      "name": "dnd5e",
+      "type": "system"
+    }
+  ],
+  "description": "Rollable tables with seasonal weather effects for 5e based on homebrew by KibblesTasty (https://www.gmbinder.com/share/-M6xAC_2zw4BzpByxO-c). Find more homebrew by KibblesTasty at https://www.patreon.com/KibblesTasty",
+  "download": "https://github.com/orangetruth/weather-effects-5e/archive/main.zip",
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "manifest": "tbd",
+  "minimumCoreVersion": "0.5.5",
+  "name": "WeatherEffects5e",
+  "packs": [
+    {
+      "name": "weather-actors",
+      "label": "Weather Actors",
+      "path": "packs/weather-actors.db",
+      "entity": "Actor",
+      "module": "WeatherEffects5e"
+    },
+    {
+      "name": "weather-effects",
+      "label": "Weather Effects",
+      "path": "packs/weather-effects.db",
+      "entity": "Item",
+      "module": "WeatherEffects5e"
+    },
+    {
+      "name": "weather-rolltables",
+      "label": "Weather Roll Tables",
+      "path": "packs/weather-rolltables.db",
+      "entity": "RollTable",
+      "module": "WeatherEffects5e"
+    }
+  ],
+  "readme": "https://github.com/orangetruth/weather-effects-5e/blob/main/README.md",
+  "title": "Weather Effects 5e",
+  "url": "https://github.com/orangetruth/weather-effects-5e",
+  "version": "1.0.0"
+}
