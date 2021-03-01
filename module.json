@@ -27,7 +27,7 @@
       "path": "lang/en.json"
     }
   ],
-  "manifest": "tbd",
+  "manifest": "https://github.com/orangetruth/weather-effects-5e/blob/main/module.json",
   "minimumCoreVersion": "0.5.5",
   "name": "weather-effects-5e",
   "packs": [
