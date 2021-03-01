@@ -13,5 +13,6 @@ This module contains 3 compendiums:
 
 3. Weather Roll Tables
 * Rollable tables for all four seasons:
-![image](https://user-images.githubusercontent.com/76987378/109441063-6f850580-79f1-11eb-960d-104540ad9421.png)
+![image](https://user-images.githubusercontent.com/76987378/109449280-440c1600-7a05-11eb-923d-8869b7a089b1.png)
+
 
