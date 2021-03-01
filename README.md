@@ -12,6 +12,6 @@ This module contains 3 compendiums:
 ![image](https://user-images.githubusercontent.com/76987378/109440608-19fc2900-79f0-11eb-9a91-5ba7742f233e.png)
 
 3. Weather Roll Tables
-* Rollable tables for all four seasons, plus the Sorcerer's Wild Magic table:
+* Rollable tables for all four seasons:
 ![image](https://user-images.githubusercontent.com/76987378/109441063-6f850580-79f1-11eb-960d-104540ad9421.png)
 
