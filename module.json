@@ -12,12 +12,6 @@
   ],
   "bugs": "https://github.com/orangetruth/weather-effects-5e/issues",
   "compatibleCoreVersion": "3.0.0",
-  "dependencies": [
-    {
-      "name": "dnd5e",
-      "type": "system"
-    }
-  ],
   "description": "Rollable tables with seasonal weather effects for 5e based on homebrew by KibblesTasty (https://www.gmbinder.com/share/-M6xAC_2zw4BzpByxO-c). Find more homebrew by KibblesTasty at https://www.patreon.com/KibblesTasty",
   "download": "https://github.com/orangetruth/weather-effects-5e/archive/main.zip",
   "languages": [
@@ -54,6 +48,7 @@
     }
   ],
   "readme": "https://github.com/orangetruth/weather-effects-5e/blob/main/README.md",
+  "system": "dnd5e",
   "title": "Weather Effects 5e",
   "url": "https://github.com/orangetruth/weather-effects-5e",
   "version": "1.0.0"
